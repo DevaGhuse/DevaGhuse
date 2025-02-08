@@ -25,10 +25,9 @@ Worked on various projects, including an **e-commerce website**, showcasing expe
 
 ## 📌 Let's Connect!  
 
-🌐 **Portfolio:** [Your Portfolio Link]  
+🌐 **Portfolio:** 
 💼 **LinkedIn:** [linkedin.com/in/devanshu-ghuse-760961244](https://www.linkedin.com/in/devanshu-ghuse-760961244/)  
 📂 **GitHub:** [github.com/DevaGhuse](https://github.com/DevaGhuse)  
-
 📩 **Email:** [devghuse@gmail.com](mailto:devghuse@gmail.com)  
 
 Always eager to **learn, collaborate, and build** innovative projects! Let's connect and create something amazing together. 😊  
