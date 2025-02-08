@@ -1,34 +1,34 @@
-## 👋 Hello guys!
-I'm Devanshu Ghuse, a tech enthusiast passionate about software development and problem-solving.
-🎓 AI Student at G.H. Raisoni Institute of Engineering & Technology, Nagpur.
-💼 Website Developer at ARP Infomatrix Private Limited.
+# 👋 Hello, I'm Devanshu Ghuse!  
 
-💻 Tech Stack & Skills:
-✔ Programming: C, C++, Python, Java, SQL
-✔ Web Technologies: HTML, CSS, JavaScript, Bootstrap, Angular
-✔ Databases: MongoDB, DBMS
-✔ Frameworks: Spring Boot, Django
-✔ APIs: REST API
+I'm a tech enthusiast passionate about **software development** and **problem-solving**. Currently:  
+🎓 **AI Student** at **G.H. Raisoni Institute of Engineering & Technology, Nagpur**  
+💼 **Website Developer** at **ARP Infomatrix Private Limited**  
 
-🚀 Professional Experience:
-🔹 Website Developer at ARP Infomatrix Pvt. Ltd. – Worked on various projects, including an e-commerce website, showcasing expertise in full-stack web development.
+## 💻 Tech Stack & Skills  
 
-📌 Always eager to learn, collaborate, and build innovative projects!
-Let’s connect and create something amazing together.
+### **Programming:**  
+✔ C, C++, Python, Java, SQL  
 
-Thank you, everyone! 😊
+### **Web Technologies:**  
+✔ HTML, CSS, JavaScript, Bootstrap, Angular  
 
-<!--
-**DevaGhuse/DevaGhuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Databases:**  
+✔ MongoDB, DBMS  
 
-Here are some ideas to get you started:
+### **Frameworks & APIs:**  
+✔ Spring Boot, Django, REST API  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Professional Experience  
+
+🔹 **Website Developer at ARP Infomatrix Pvt. Ltd.**  
+Worked on various projects, including an **e-commerce website**, showcasing expertise in full-stack web development.  
+
+## 📌 Let's Connect!  
+
+🌐 **Portfolio:** [Your Portfolio Link]  
+💼 **LinkedIn:** [linkedin.com/in/devanshu-ghuse-760961244](https://www.linkedin.com/in/devanshu-ghuse-760961244/)  
+📂 **GitHub:** [github.com/DevaGhuse](https://github.com/DevaGhuse)  
+
+📩 **Email:** [devghuse@gmail.com](mailto:devghuse@gmail.com)  
+
+Always eager to **learn, collaborate, and build** innovative projects! Let's connect and create something amazing together. 😊  
